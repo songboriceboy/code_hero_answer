@@ -30,8 +30,6 @@ package info.songbo;
 //        在数组中元素为1的位置全部用星号显示，元素为0的位置全部用空格显示。
 //        编写一个c语言程序，画出有趣的形状。在世这加入其他命令来增强海龟作图语言的功能。
 
-
-
 public class Main {
 
     public static void main(String[] args) {
